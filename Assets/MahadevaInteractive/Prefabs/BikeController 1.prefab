@@ -978,7 +978,7 @@ Rigidbody2D:
   m_Mass: 0.24
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 3
+  m_GravityScale: 15
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -1005,10 +1005,10 @@ MonoBehaviour:
   BackTire: {fileID: 8297371899870528604}
   FrontTire: {fileID: 3437370249431129569}
   CarBody: {fileID: 7462901067348567493}
-  Head: {fileID: 0}
+  Head: {fileID: 3958526369702462276}
   Speed: 3000
   WheelieTorque: 2000
-  BrakeForce: 10000
+  BrakeForce: 20000
   maxFuel: 100
   fuel: 0
   fuelDrainRate: 5
