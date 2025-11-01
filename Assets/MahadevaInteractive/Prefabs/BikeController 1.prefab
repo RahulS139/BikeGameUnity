@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2184632288567050759}
   m_Layer: 0
   m_Name: bikebody
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -508,7 +508,7 @@ GameObject:
   - component: {fileID: 3958526369702462276}
   m_Layer: 0
   m_Name: head_0
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -627,7 +627,7 @@ GameObject:
   - component: {fileID: 3437370249431129569}
   m_Layer: 0
   m_Name: wheelsF
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -782,7 +782,7 @@ GameObject:
   - component: {fileID: 8297371899870528604}
   m_Layer: 0
   m_Name: wheelsB
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
